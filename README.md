@@ -1,4 +1,7 @@
 ## Credit Risk Analysis using Machine Learning
+
+![banner](assets/icon.jpg)
+
 ### Predicting the risk of client default using XGBoost, LightGBM and CatBoost
 
 - Credit risk refers to the likelihood of a client failing to fulfill their financial obligations, such as mortgages, credit card payments, and various types of loans.
